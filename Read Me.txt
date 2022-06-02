@@ -1,0 +1,35 @@
+So make sure you have python install if not just download it, should be https://python.org/downloads
+
+after that make sure you check the box in the install that says add to path, if ther is not just ignore this step
+
+then you should be good, you can type 'pip freeze' to test if it works
+
+then just run the 'Run Me First' program in the bin folder, this should install the requiered modules to run this program.
+
+just wait until it is done then close the window
+
+after that drag and drop a file I.E: .txt, .json, .encfile into the 'Release' directory
+
+then just run the program in release
+
+if you wanna see the program code just open up the 'Encrypter.py' file in the 'Debug' folder an open with
+a text editor like atom or vs code
+
+And the program should go something like this:
+
+Encrypt or Decrypt? (e/d): (enter e or d here)
+
+File to encrypt (with the file extention): (enter the file name with the extention like text.txt)
+or
+File to decrypt (the .encfile's name): (enter the .encfile's name)
+
+and if you choose to decrypt then it will ask you:
+Output file name (with the file extention): (enter the file name with the extention like text.txt)
+
+if the file does not exist then it will say that the file does not exist
+
+after that it will tell you your key so keep that in mind
+
+then to decrypt then it will ask for your key so make sure you remeber that
+
+that's all bye
